@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @MordsDepp
 - 👀 for weirdos, fun and fine apps
-- 🌱 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MordsDepp/MordsDepp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I'm recently learning... how to tidy my flat properly
+- 💞️ I’m looking to collaborate on robotic stuff and auto piloted drones
+- 📫 How to reach me... just dial +49 110 and yell "MordsDepp" 3x when your call is answered 👍🏽✌🏼
+     or just E-Mail me if you're a killjoy 
+     mordsdepp@i-speak.io
